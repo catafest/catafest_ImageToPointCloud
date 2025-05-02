@@ -10,6 +10,8 @@ These issues for Blender versions with new extension feature:
 
 # design 
 
+the idea of  the information from the 2D images ...
+
 ![Alt images_topointcloud ](https://github.com/catafest/catafest_ImageToPointCloud/blob/main/images_topointcloud.jpeg)
 
 ![Alt working_images_topointcloud](https://github.com/catafest/catafest_ImageToPointCloud/blob/main/working_images_topointcloud.jpeg)
